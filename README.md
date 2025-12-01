@@ -6,3 +6,4 @@ Códigos e materiais desenvolvidos durante iniciação científica que visou est
 Extração de códigos da **PNADc (IBGE)** via **R**.
 
 Autoria: Cinthya B. Afonso
+Orientação: Dr. Pedro H. T. Forquesato.
